@@ -1,0 +1,6 @@
+{
+  "name": "MediClean",
+  "description": "Healthcare Data Governance, Quality Assessment, Automated Cleaning, and Validation Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
